@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnykScanTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fbee3d6958c37d16168da3a5bb6bfeb9335c5ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f0de175388488a7cc2889a304d576bf6a27413")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnykScanTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnykScanTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BOrn2wgOV8GGrG7pxy2myE7XxJuIC9WunkuR7d9rn8d+Fjg/pDpJEPfmwHV+JEnyW+NhZu+M/zv3O+UEeQcC+g==",
+  "dgSpecHash": "38Kn488Sr0l3bDhhkA/V/O4b4Sdo98KJz3gZCwNBtRmuGqHaCt9V6CzQd7SCO9r2+UX/SF0wu9jn2d+O3Y2wXA==",
   "success": true,
   "projectFilePath": "C:\\dev\\tanhtest-pp\\SnykScanTest\\SnykScanTest\\SnykScanTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
