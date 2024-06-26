@@ -2,3 +2,9 @@
 /.vs/slnx.sqlite
 /.vs/SnykScanTest/FileContentIndex/624a3aee-60ba-492b-a536-03ab0d07900d.vsidx
 /.vs
+/.dccache
+/SnykScanTest/obj/Debug/net8.0/SnykScanTest.AssemblyInfo.cs
+/SnykScanTest/obj/*
+/SnykScanTest/bin/*
+/SnykScanTest/obj/Debug/net8.0/SnykScanTest.AssemblyInfo.cs
+/SnykScanTest/obj/Debug/net8.0/SnykScanTest.AssemblyInfoInputs.cache
